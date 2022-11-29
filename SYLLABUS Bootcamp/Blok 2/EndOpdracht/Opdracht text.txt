@@ -1,0 +1,24 @@
+Assignment 4 - Camping
+Reservations come in at a campsite. The following rates are used by the campsite: € 15 per pitch. In addition, € 2.50 per person and € 3.00 for the car. From July 11 to August 15, a surcharge of 25% applies.
+
+A program should be developed that allows the start and end date (format ddmmyyyy), as well as the number of people and whether or not a car can be entered for each reservation. For each reservation, the costs due must be calculated and shown. Furthermore, the cumulative total income (per reservation), the average number of days for which reservations are made and the total number of people must be shown.
+
+Campsite rates : 
+- 15 € per pitch
+- 2.50 € per person
+- 3.00 € for the car
+- from 11 July to 15 August -> subcharge of 25% applies
+What should the program has:
+- The start and end date for the reservation (ddmmyyyy)
+- The Number of people in the reservation
+-If they also wanted a car or not
+- the costs for each reservation and show them
+-the cumulative total income
+- the average number of days for which reservations are made 
+- and the total number of people must be shown.
+    Reservations       ||     Campsite
+date                   ||the costs CALCULATED shown
+number of people       ||the cumulative total income
+car or not             ||the avrage number of days reservation made 
+                       ||total number of people
+
